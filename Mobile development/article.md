@@ -1,5 +1,5 @@
 ---
-date: 2017-06-05
+date: 2022-06-24
 tags:
   - React Native
 featured: true
@@ -7,11 +7,8 @@ authors:
   - tommy
 slug: reactnativeisgoodforyou
 title: Why React Native is a good pick
-subTitle: I still meet people who ask, if this new and shiny React Native thing is worth anything....
-Well, maybe I hang around with old dudes (like myself), but let me then enlighten these fellow seniors about the technology
-
-# Truegit allows viewer of your blog to be able to suggest changes to it. To disable that, use this flag.
-disableSuggestEdit: true
+subTitle: I still meet people who ask, if this new and shiny React Native thing is worth anything. Well, maybe I hang around with old dudes (like myself), but let me then enlighten these fellow seniors about the technology
+disableSuggestEdit: false
 bannerImage: ./download.jpeg
 ---
 
