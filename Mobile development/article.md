@@ -1,17 +1,18 @@
 ---
-date: 2017-05-05
+date: 2022-06-24
 tags:
-  - graphql
+  - React Native
 featured: true
 authors:
-  - quantdaddy
-slug: coffee-matters
-subTitle: Affogato mocha milk spoon single shot coffee saucer coffee rich spoon. Barista, roast robusta cup irish con panna sweet turkish. Single shot so doppio acerbic, ristretto caffeine affogato rich saucer lungo.
-title: Coffee Matters
-bannerImage: ./coffee.webp
+  - tommy
+slug: reactnativeisgoodforyou
+title: Why React Native is a good pick
+subTitle: I still meet people who ask, if this new and shiny React Native thing is worth anything. Well, maybe I hang around with old dudes (like myself), but let me then enlighten these fellow seniors about the technology
+disableSuggestEdit: false
+bannerImage: ./download.jpeg
 ---
 
-# Second Article
+# Nothing
 
 Paragraphs are separated by a blank line.
 
